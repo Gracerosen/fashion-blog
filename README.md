@@ -1,4 +1,4 @@
-# LEARN-HTML-Fashion-Blog to extend
+# Fashion-Blog (to extend)
 <br>
 </br>
 <br>
